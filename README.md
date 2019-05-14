@@ -2,8 +2,17 @@
 
 ![Micro](https://www.elprocus.com/wp-content/uploads/2014/06/410.jpg)
 
+## TOC
+[Introduction]
+[Prerequesites]
+[Code Block]
+[Compiling Blinky]
+[Microcontroller]
+[Moving Forward]
+[References]
+
 ## Building an AVR toolchain from the command line
-This project walks you through the process of setting your toolchain to compile/deploy C code for AVR microcontrollers. Today there are many IDEs that magically automate this process for you. These are convenient but obscure much of what is going on behind the scenes from the developer. The key to becoming a better embedded engineer is understanding the toolchain compilation/deployment workflow. When the time comes to take your product to production these scripts will come in handy.
+This project walks you through the process of generating your toolchain to compile/deploy C code for AVR microcontrollers. Although numerous IDEs exist that can automate this process, there is a drawback. The main problem, especially for an beginning embedded engineer, is the obscurity of whats going on behind the scenes from the developer. The key to becoming a better embedded engineer is understanding the toolchain compilation/deployment workflow. When the time comes to take your product to production these scripts will come in handy.
 
 ### Prerequisites:
 
